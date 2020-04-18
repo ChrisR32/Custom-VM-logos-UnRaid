@@ -2,4 +2,6 @@
  Some custom virtual machine logos for unraid
 
  
-![included](logos_included.png)
+![image from unraid](logos_included.png)
+
+![all at full size](logos_included2.png)
